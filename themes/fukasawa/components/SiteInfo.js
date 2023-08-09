@@ -21,7 +21,7 @@ function SiteInfo ({ title }) {
             <span className='hidden busuanzi_container_site_pv'> <i className='fas fa-eye' /><span className='px-1 busuanzi_value_site_pv'> </span>  </span>
             <span className='pl-2 hidden busuanzi_container_site_uv'> <i className='fas fa-users' /> <span className='px-1 busuanzi_value_site_uv'> </span> </span>
             <br />
-            <span className='text-xs font-serif'> Powered by <a href='https://plandoo.top' className='underline'>帕兰朵性息站 {BLOG.VERSION}</a></span><br /></span>
+            <span className='text-xs font-serif'> Powered by <a href='https://inky-pullover-cfb.notion.site/c60d46307c6e49f3af820f0a76769113?pvs=4' className='underline'>DGTL数字技术 {BLOG.VERSION}</a></span><br /></span>
             <h1>{title}</h1>
         </footer>
   )
